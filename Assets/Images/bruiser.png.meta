@@ -1,0 +1,139 @@
+fileFormatVersion: 2
+guid: 3b5f274aa66fef340ad8f3861e48d147
+timeCreated: 1460901320
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bruiser_0
+    21300002: bruiser_1
+    21300004: bruiser_2
+    21300006: bruiser_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: bruiser_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 99
+        width: 38
+        height: 77
+      alignment: 9
+      pivot: {x: 0.34928897, y: 0.8506335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.272981, y: 11.501221}
+        - {x: -13.272981, y: 8.501221}
+        - {x: -13.272981, y: -58.49878}
+        - {x: -6.2729807, y: -65.49878}
+        - {x: 24.72702, y: -65.49878}
+        - {x: 24.72702, y: -14.498779}
+        - {x: 12.727019, y: 11.501221}
+    - name: bruiser_1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 92
+        width: 55
+        height: 88
+      alignment: 9
+      pivot: {x: 0.34628782, y: 0.83159655}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.95417, y: 14.819504}
+        - {x: -19.04583, y: 14.819504}
+        - {x: -19.04583, y: -36.180496}
+        - {x: -9.04583, y: -73.1805}
+        - {x: 35.95417, y: -73.1805}
+        - {x: 35.95417, y: -4.180496}
+        - {x: 25.95417, y: 13.819504}
+    - name: bruiser_2
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 6
+        width: 147
+        height: 196
+      alignment: 9
+      pivot: {x: 0.33488682, y: 0.09649304}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 57.771637, y: 56.087364}
+        - {x: 83.77164, y: 32.087364}
+        - {x: 97.77164, y: 29.087364}
+        - {x: 97.77164, y: 177.08737}
+        - {x: -18.228363, y: 177.08737}
+        - {x: -49.228363, y: 153.08737}
+        - {x: -49.228363, y: 3.0873642}
+        - {x: -26.228363, y: -18.912636}
+        - {x: 18.771637, y: -18.912636}
+        - {x: 37.771637, y: -3.9126358}
+        - {x: 47.771637, y: 18.087364}
+        - {x: 51.771637, y: 29.087364}
+    - name: bruiser_3
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 0
+        width: 79
+        height: 87
+      alignment: 9
+      pivot: {x: 0.83140045, y: 0.35894033}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65.68063, y: 55.77219}
+        - {x: -65.68063, y: -7.22781}
+        - {x: -64.68063, y: -13.22781}
+        - {x: -49.680634, y: -31.22781}
+        - {x: 8.319366, y: -31.22781}
+        - {x: 13.319366, y: -17.22781}
+        - {x: 13.319366, y: 37.77219}
+        - {x: 1.3193665, y: 55.77219}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
